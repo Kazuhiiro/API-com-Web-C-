@@ -1,0 +1,33 @@
+C:\Users\t_yan.kamo\Desktop\Aplicação Teste\Aplicação Teste\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\t_yan.kamo\Desktop\Aplicação Teste\Aplicação Teste\bin\Debug\net7.0\appsettings.json
+C:\Users\t_yan.kamo\Desktop\Aplicação Teste\Aplicação Teste\bin\Debug\net7.0\Aplicação Teste.exe
+C:\Users\t_yan.kamo\Desktop\Aplicação Teste\Aplicação Teste\bin\Debug\net7.0\Aplicação Teste.deps.json
+C:\Users\t_yan.kamo\Desktop\Aplicação Teste\Aplicação Teste\bin\Debug\net7.0\Aplicação Teste.runtimeconfig.json
+C:\Users\t_yan.kamo\Desktop\Aplicação Teste\Aplicação Teste\bin\Debug\net7.0\Aplicação Teste.dll
+C:\Users\t_yan.kamo\Desktop\Aplicação Teste\Aplicação Teste\bin\Debug\net7.0\Aplicação Teste.pdb
+C:\Users\t_yan.kamo\Desktop\Aplicação Teste\Aplicação Teste\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\t_yan.kamo\Desktop\Aplicação Teste\Aplicação Teste\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\t_yan.kamo\Desktop\Aplicação Teste\Aplicação Teste\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\t_yan.kamo\Desktop\Aplicação Teste\Aplicação Teste\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\t_yan.kamo\Desktop\Aplicação Teste\Aplicação Teste\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\t_yan.kamo\Desktop\Aplicação Teste\Aplicação Teste\obj\Debug\net7.0\Aplicação Teste.csproj.AssemblyReference.cache
+C:\Users\t_yan.kamo\Desktop\Aplicação Teste\Aplicação Teste\obj\Debug\net7.0\Aplicação Teste.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\t_yan.kamo\Desktop\Aplicação Teste\Aplicação Teste\obj\Debug\net7.0\Aplicação Teste.AssemblyInfoInputs.cache
+C:\Users\t_yan.kamo\Desktop\Aplicação Teste\Aplicação Teste\obj\Debug\net7.0\Aplicação Teste.AssemblyInfo.cs
+C:\Users\t_yan.kamo\Desktop\Aplicação Teste\Aplicação Teste\obj\Debug\net7.0\Aplicação Teste.csproj.CoreCompileInputs.cache
+C:\Users\t_yan.kamo\Desktop\Aplicação Teste\Aplicação Teste\obj\Debug\net7.0\Aplicação Teste.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\t_yan.kamo\Desktop\Aplicação Teste\Aplicação Teste\obj\Debug\net7.0\Aplicação Teste.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\t_yan.kamo\Desktop\Aplicação Teste\Aplicação Teste\obj\Debug\net7.0\staticwebassets\msbuild.Aplicação Teste.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\t_yan.kamo\Desktop\Aplicação Teste\Aplicação Teste\obj\Debug\net7.0\staticwebassets\msbuild.build.Aplicação Teste.props
+C:\Users\t_yan.kamo\Desktop\Aplicação Teste\Aplicação Teste\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.Aplicação Teste.props
+C:\Users\t_yan.kamo\Desktop\Aplicação Teste\Aplicação Teste\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.Aplicação Teste.props
+C:\Users\t_yan.kamo\Desktop\Aplicação Teste\Aplicação Teste\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\t_yan.kamo\Desktop\Aplicação Teste\Aplicação Teste\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\t_yan.kamo\Desktop\Aplicação Teste\Aplicação Teste\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\t_yan.kamo\Desktop\Aplicação Teste\Aplicação Teste\obj\Debug\net7.0\scopedcss\bundle\Aplicação Teste.styles.css
+C:\Users\t_yan.kamo\Desktop\Aplicação Teste\Aplicação Teste\obj\Debug\net7.0\Aplicação Teste.csproj.CopyComplete
+C:\Users\t_yan.kamo\Desktop\Aplicação Teste\Aplicação Teste\obj\Debug\net7.0\Aplicação Teste.dll
+C:\Users\t_yan.kamo\Desktop\Aplicação Teste\Aplicação Teste\obj\Debug\net7.0\refint\Aplicação Teste.dll
+C:\Users\t_yan.kamo\Desktop\Aplicação Teste\Aplicação Teste\obj\Debug\net7.0\Aplicação Teste.pdb
+C:\Users\t_yan.kamo\Desktop\Aplicação Teste\Aplicação Teste\obj\Debug\net7.0\Aplicação Teste.genruntimeconfig.cache
+C:\Users\t_yan.kamo\Desktop\Aplicação Teste\Aplicação Teste\obj\Debug\net7.0\ref\Aplicação Teste.dll
